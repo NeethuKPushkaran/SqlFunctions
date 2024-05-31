@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "books database", "books database\books database.ssmssqlproj", "{F7AAB1C6-BF82-46D0-ACB8-C3D9244BA5E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7AAB1C6-BF82-46D0-ACB8-C3D9244BA5E0}.Default|Default.ActiveCfg = Default
+		{F8DC573C-CF65-4880-935C-C6DE167A62C8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F719D1-AB08-48BB-B9A6-3A6E067CE71A}
+	EndGlobalSection
+EndGlobal
